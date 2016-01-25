@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.github.ipan97.training.spring.boot.TrainingSpringBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.459 sec - in com.github.ipan97.training.spring.boot.TrainingSpringBootApplicationTests
